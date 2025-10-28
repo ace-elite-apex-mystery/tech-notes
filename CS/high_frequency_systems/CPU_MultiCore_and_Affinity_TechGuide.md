@@ -222,17 +222,21 @@ try {
 
 ## 若要精確分類成層級關係（學術結構）
 Computer Science
- ├── Systems
- │    ├── Operating Systems
- │    │    ├── Process Management
- │    │    │    ├── CPU Scheduling
- │    │    │    ├── Context Switching
- │    │    │    └── CPU Affinity (Core Binding)
- │    ├── Concurrency & Parallelism
- │    └── Real-Time Systems
- ├── Performance Engineering
- │    ├── Low-Latency Optimization
- │    ├── Cache & Memory Tuning
- │    └── NUMA / Thread Pinning
- └── Software Engineering
-      └── JVM / Runtime Performance (for Java)
+│
+├─ Systems
+│  ├─ Operating Systems
+│  │  ├─ Process Management
+│  │  ├─ CPU Scheduling
+│  │  │  ├─ Context Switching
+│  │  │  └─ CPU Affinity (Core Binding)
+│  │  └─ Concurrency & Parallelism
+│  │     └─ Real-Time Systems
+│  │
+│  ├─ Performance Engineering
+│  │  ├─ Low-Latency Optimization
+│  │  ├─ Cache & Memory Tuning
+│  │  └─ NUMA / Thread Pinning
+│  │
+│  └─ Software Engineering
+│     └─ JVM / Runtime Performance (for Java)
+
