@@ -1,4 +1,5 @@
-# 能交換檔案之前, 會需要在虛擬機先安裝SSH Server
+# 🐳 使用WinSCP連線設定
+# 交換檔案之前, 會需要在虛擬機先安裝SSH Server
 # 安裝 SSH Server 教學 (適用 Ubuntu / Debian 系統)
 
 ## ☑️ 前言
