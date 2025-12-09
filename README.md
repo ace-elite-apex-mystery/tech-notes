@@ -18,6 +18,7 @@ Organized as Guides, Recipes, References, Troubleshooting, Playbooks to turn har
 - [Linux 將使用者 heroic 提升為超級使用者（root）](/linux/playbook/grant-root-access-linux.md)
 - [使用WinSCP連線設定](/linux/playbook/winscp_preset_linux_exchange.md)
 - [mkcert 在 Linux 虛擬機 (VM) 上的安裝與使用教學](/linux/playbook/mkcert_install_10_0_0_40.md)
+- [封閉網環境 Docker + React + Spring Boot + PostgreSQL 技術文件](/linux/playbook/closed_network_environment_technical_doc.md)
 
 🧩 **troubleshooting**：
 - [修改 /etc/passwd 為 heroic:x:0:0: 造成的問題與修復指南](/linux/troubleshooting/fix-passwd-heroic.md)
